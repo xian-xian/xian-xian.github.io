@@ -1,0 +1,18 @@
+@charset "utf-8";
+.main {
+    background-color: #FF0004;
+    width: 300px;
+    height: 150px;
+}
+.myphoto {
+    background-color: #E8FF00;
+    width: 100px;
+    height: 150px;
+    float: left;
+}
+.mytext {
+    background-color: rgba(0,255,0,1.00);
+    width: 200px;
+    height: 150px;
+    float: right;
+}
